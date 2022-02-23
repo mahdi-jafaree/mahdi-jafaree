@@ -5,7 +5,7 @@
 
 
 Here are some ideas to get you started:
-- 💼 FrontEnd Engineer at [Parsa Technologies](http://razorpay.com/)
+- 💼 FrontEnd Engineer at [Parsa Technologies](http://parsatechnologies.com/)
 - 🌱 I’m currently learning Microfrontends with React
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about React.

@@ -5,7 +5,7 @@
 
 
 Here are some ideas to get you started:
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 FrontEnd Engineer at [Parsa Technologies](http://razorpay.com/)
 - 🌱 I’m currently learning Microfrontends with React
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about React.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/Mehdi_jafaree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Mehdi_jafaree" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/mahdi-jafaree"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi-jafaree&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mahdi Jafaree stars" /></a>
+<a href="https://github.com/mahdi-jafaree"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-jafaree&layout=compact&theme=buefy&hide_border=true" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
